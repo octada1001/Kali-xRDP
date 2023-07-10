@@ -1,4 +1,4 @@
 [Desktop Entry]
-Exec=picom
+Exec=picom --legacy-backends --backend=xr_glx_hybrid
 X-XFCE-Autostart-Override=true
 Hidden=false
